@@ -1,0 +1,10 @@
+{
+	"action" : {
+		"type": "url",
+		"text" : "Add Watson Service",
+		"link": "https://www.ibm.com/watson/developercloud/",
+		"description" : "Add a Watson service to your app"
+	},
+	"image" : "https://raw.githubusercontent.com/mven/CodeEval3/master/purple.png",
+	"icon" : "https://raw.githubusercontent.com/mven/CodeEval3/master/purple-icon.png"
+}

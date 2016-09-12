@@ -1,10 +1,10 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Add Watson Service",
-		"link": "https://www.ibm.com/watson/developercloud/",
-		"description" : "Add a Watson service to your app"
+		"text" : "Stack Overflow community",
+		"link": "http://stackoverflow.com/questions/tagged/bluemix-mobile-services",
+		"description" : "Ask questions in Stack Overflow"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/purple.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/purple-icon.png"
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/so-logo.png",
+	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/so-icon.png"
 }

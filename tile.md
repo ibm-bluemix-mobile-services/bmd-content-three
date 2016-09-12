@@ -1,4 +1,4 @@
-# Add Watson Service
-## Enhance your mobile app with Cognitive
+# Stack Overflow community
+## Get answers from our Stack Overflow community
 
-Add a cognitive service or create bots and virtual agents using natural language understanding to enhance the capabilities of your app.
+You can post programming & setup-related questions in Stack Overflow and get answers from our extended IBM Bluemix Mobile services community.

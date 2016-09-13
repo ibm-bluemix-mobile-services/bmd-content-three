@@ -5,6 +5,6 @@
 		"link": "http://stackoverflow.com/questions/tagged/bluemix-mobile-services",
 		"description" : "Ask questions in Stack Overflow"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/so-logo.png",
+	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/so-icon.png",
 	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/so-icon.png"
 }

@@ -4,7 +4,7 @@
 		"text" : "View Documentation",
 		"link": "../../docs/mobile/index.html",
 		"description" : "Bluemix Mobile documentation",
-		"newTab" : false,
+		"newTab" : true,
 		"altText" : "View Documentation"
 	},
 	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-two/master/temp_documentation.png",

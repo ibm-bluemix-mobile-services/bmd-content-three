@@ -1,4 +1,3 @@
-# Stack Overflow community
-## Get answers from our Stack Overflow community
+# View Documentation
 
-You can post programming & setup-related questions in Stack Overflow and get answers from our extended IBM Bluemix Mobile services community.
+Read more about our IBM Bluemix Mobile dashboard and service offerings.

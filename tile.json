@@ -7,6 +7,6 @@
 		"newTab" : true,
 		"altText" : "View Documentation"
 	},
-	"image" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/view_docs.png",
-	"icon" : "https://raw.githubusercontent.com/ibm-bluemix-mobile-services/bmd-content-three/master/view_docs.png"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-three/view_docs.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-three/view_docs.svg"
 }

@@ -7,10 +7,10 @@
 		"newTab" : true,
 		"altText" : "Learn More"
 	},
-	"action" : {
+	"alternateAction" : {
 		"type": "url",
 		"text" : "Get Started",
-		"link": "../../docs/cloudnative/dev_cli.html",
+		"link": "https://dev-console.stage1.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html?pos=2#getting-started",
 		"description" : "Learn More",
 		"newTab" : true,
 		"altText" : "Learn More"

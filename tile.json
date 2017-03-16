@@ -10,12 +10,12 @@
 	"alternateAction" : {
 		"type": "url",
 		"text" : "Get Started",
-		"link": "https://dev-console.stage1.ng.bluemix.net/docs/cli/reference/bluemix_cli/index.html?pos=2#getting-started",
+		"link": "../../docs/cli/reference/bluemix_cli/index.html",
 		"description" : "Learn More",
 		"newTab" : true,
 		"altText" : "Learn More"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/create_project.svg",
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-02.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-02.svg",
 	"tag" : "Dev Tool"
 }

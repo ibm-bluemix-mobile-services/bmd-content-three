@@ -1,3 +1,3 @@
-# View Documentation
+# Bluemix CLI Developer Plug-in
 
-Read more about our IBM Bluemix Mobile dashboard and service offerings.
+Create, run, and deploy Bluemix projects with starter code through the command line interface.
